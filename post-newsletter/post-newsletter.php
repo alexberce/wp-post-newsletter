@@ -9,11 +9,11 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Post Newsletter
- * Plugin URI:        http://captainform.com
+ * Plugin URI:        https://github.com/alexberce/wp-post-newsletter
  * Description:       Notify your visitors every time you create a new post
  * Version:           1.0.0
- * Author:            captainform
- * Author URI:        https://profiles.wordpress.org/captainform
+ * Author:            Alexandru Berce
+ * Author URI:        https://github.com/alexberce
  * License:           MIT
  * Text Domain:       post-newsletter
  * Domain Path:       /languages
